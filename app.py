@@ -1,5 +1,3 @@
-!pip install Cython==0.28.5
-import Cython
 import pickle
 import streamlit as st
  
