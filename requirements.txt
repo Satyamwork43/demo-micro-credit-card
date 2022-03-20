@@ -3,14 +3,14 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy==1.20.1
+numpy==1.17.3
 scipy>=0.15.1
-scikit-learn==0.19.0
+scikit-learn==0.20.4
 matplotlib>=1.4.3
 pandas==1.2.4
 flasgger==0.9.4
 seaborn==0.10.1
 emoji==0.5.4
-streamlit
+streamlit==1.7.0
 gevent
 lightgbm
