@@ -11,6 +11,6 @@ pandas==1.2.4
 flasgger==0.9.4
 seaborn==0.10.1
 emoji==0.5.4
-streamlit==0.83.0
+streamlit
 gevent
 lightgbm
